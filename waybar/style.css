@@ -1,10 +1,11 @@
 * {
   font-family: "UbuntuMono Nerd Font";
-  font-size: 16px;
+  font-size: 17px;
   font-weight: bold;
   border: none;
   border-radius: 0px;
-  min-height: 0px
+  min-height: 0px;
+  margin-top: 3px;
 }
 
 window#waybar {
@@ -22,12 +23,12 @@ window#waybar {
 #bluetooth,
 #pulseaudio {
   min-width: 12px;
-  margin: 0 8px;
+  margin: 0 10px;
 }
 
 #workspaces button {
   all: initial;
-  padding: 3 10px;
+  padding: 0 10px;
   margin: 0 3px;
   min-width: 12px;
   color: #404040;
