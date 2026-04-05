@@ -1,13 +1,13 @@
 # Arch Onyx Dotfiles
 
-![Platform](https://img.shields.io/badge/platform-Arch_Linux-blue.svg)
-![Display](https://img.shields.io/badge/display-Wayland-purple.svg)
-![Compositor](https://img.shields.io/badge/compositor-Hyprland-cyan.svg)
-![Terminal](https://img.shields.io/badge/terminal-Alacritty-orange.svg)
-![Editor](https://img.shields.io/badge/editor-Neovim-brightgreen.svg)
-![Prompt](https://img.shields.io/badge/prompt-Starship-yellow.svg)
-![Bar](https://img.shields.io/badge/bar-Waybar-blue.svg)
-![Launcher](https://img.shields.io/badge/launcher-Wofi-blueviolet.svg)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-185FA5?logo=archlinux&logoColor=fff)
+![Wayland](https://img.shields.io/badge/Wayland-533AB7?logo=wayland&logoColor=fff)
+![Hyprland](https://img.shields.io/badge/Hyprland-0F6E56?logo=hyprland&logoColor=fff)
+![Waybar](https://img.shields.io/badge/Waybar-3C3489?logo=wayland&logoColor=fff)
+![Wofi](https://img.shields.io/badge/Wofi-7F77DD?logo=quicklook&logoColor=fff)
+![Alacritty](https://img.shields.io/badge/Alacritty-993C1D?logo=alacritty&logoColor=fff)
+![Neovim](https://img.shields.io/badge/Neovim-3B6D11?logo=neovim&logoColor=fff)
+![Starship](https://img.shields.io/badge/Starship-854F0B?logo=starship&logoColor=fff)
 
 > A Wayland-based Arch Linux setup with an onyx (black-and-gray) color scheme — practical, consistent, and easy to install.
 
